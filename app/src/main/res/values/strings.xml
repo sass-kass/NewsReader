@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RssNewsReader</string>
+    <string name="refresh_news">Refresh news</string>
+</resources>
